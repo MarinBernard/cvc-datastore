@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Viol
-+INSTRUMENT:fr=Viole de gambe
+
+# Constants
+!INSTRUMENT_STRING_VIOL:en=Viol
+!INSTRUMENT_STRING_VIOL:fr=Viole de gambe
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_STRING_VIOL}}
++INSTRUMENT:fr={{INSTRUMENT_STRING_VIOL}}

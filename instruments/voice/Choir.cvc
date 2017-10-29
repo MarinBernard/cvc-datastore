@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Choir
-+INSTRUMENT:fr=Chœur
+
+# Constants
+!INSTRUMENT_VOICE_CHOIR:en=Choir
+!INSTRUMENT_VOICE_CHOIR:fr=Chœur
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_VOICE_CHOIR}}
++INSTRUMENT:fr={{INSTRUMENT_VOICE_CHOIR}}

@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Bass (voice)
-+INSTRUMENT:fr=Basse (voix)
+
+# Constants
+!INSTRUMENT_VOICE_BASS:en=Bass (voice)
+!INSTRUMENT_VOICE_BASS:fr=Basse (voix)
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_VOICE_BASS}}
++INSTRUMENT:fr={{INSTRUMENT_VOICE_BASS}}

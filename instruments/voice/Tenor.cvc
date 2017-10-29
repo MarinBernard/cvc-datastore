@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Tenor
-+INSTRUMENT:fr=Ténor
+
+# Constants
+!INSTRUMENT_VOICE_TENOR:en=Tenor
+!INSTRUMENT_VOICE_TENOR:fr=Ténor
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_VOICE_TENOR}}
++INSTRUMENT:fr={{INSTRUMENT_VOICE_TENOR}}

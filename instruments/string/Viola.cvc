@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Viola
-+INSTRUMENT:fr=Alto (instrument)
+
+# Constants
+!INSTRUMENT_STRING_VIOLA:en=Viola
+!INSTRUMENT_STRING_VIOLA:fr=Alto (instrument)
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_STRING_VIOLA}}
++INSTRUMENT:fr={{INSTRUMENT_STRING_VIOLA}}

@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Continuo
-+INSTRUMENT:fr=Basse continue
+
+# Constants
+!INSTRUMENT_CONTINUO:en=Continuo
+!INSTRUMENT_CONTINUO:fr=Continuo
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_CONTINUO}}
++INSTRUMENT:fr={{INSTRUMENT_CONTINUO}}

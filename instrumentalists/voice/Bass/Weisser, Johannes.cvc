@@ -1,0 +1,4 @@
+# Cascaded Vorbis Comments file
+# Created: 2016-11-12
+@INSTRUMENT=voice/Bass
++INSTRUMENTALIST=Johannes Weisser|Weisser, Johannes|Weisser|{{INSTRUMENT_VOICE_BASS}}

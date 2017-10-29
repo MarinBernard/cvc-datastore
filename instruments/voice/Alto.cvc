@@ -1,0 +1,10 @@
+# Cascaded Vorbis Comments file
+# Created: 2016-11-13
+
+# Constants
+!INSTRUMENT_VOICE_ALTO:en=Alto
+!INSTRUMENT_VOICE_ALTO:fr=Alto (voix)
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_VOICE_ALTO}}
++INSTRUMENT:fr={{INSTRUMENT_VOICE_ALTO}}

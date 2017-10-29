@@ -1,0 +1,10 @@
+# Cascaded Vorbis Comments file
+# Created: 2017-10-29
+
+# Constants
+!INSTRUMENT_KEYBOARD_PIANO:en=Piano
+!INSTRUMENT_KEYBOARD_PIANO:fr=Piano
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_KEYBOARD_PIANO}}
++INSTRUMENT:fr={{INSTRUMENT_KEYBOARD_PIANO}}

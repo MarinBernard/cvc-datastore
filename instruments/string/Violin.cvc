@@ -1,4 +1,10 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-13
-+INSTRUMENT:en=Violin
-+INSTRUMENT:fr=Violon
+
+# Constants
+!INSTRUMENT_STRING_VIOLIN:en=Violin
+!INSTRUMENT_STRING_VIOLIN:fr=Violon
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_STRING_VIOLIN}}
++INSTRUMENT:fr={{INSTRUMENT_STRING_VIOLIN}}
