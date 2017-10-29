@@ -3,10 +3,10 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Chorale
 @INSTRUMENT=Choir
-@INSTRUMENT=Flute
-@INSTRUMENT=Oboe
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=wind/Flute
+@INSTRUMENT=wind/Oboe
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Continuo
 +KEY=Fsm
 +SLICENUMBER=II.41b

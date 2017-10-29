@@ -2,8 +2,8 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Soprano
-@INSTRUMENT=Oboe
+@INSTRUMENT=voice/Soprano
+@INSTRUMENT=wind/Oboe
 @INSTRUMENT=Continuo
 +KEY=G
 +SLICENUMBER=I.13

@@ -3,11 +3,11 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
 @INSTRUMENT=Choir
-@INSTRUMENT=Tenor
-@INSTRUMENT=Flute
-@INSTRUMENT=Oboe
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=wind/Flute
+@INSTRUMENT=wind/Oboe
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Continuo
 +KEY=Cm
 +SLICENUMBER=I.20

@@ -2,8 +2,8 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
+@INSTRUMENT=voice/Tenor
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
 +KEY=D
 +SLICENUMBER=I.4a
 +FIRSTWORDS=Da versammleten sich die Hohenpriester

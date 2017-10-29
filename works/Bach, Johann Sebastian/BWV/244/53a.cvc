@@ -3,7 +3,7 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
+@INSTRUMENT=voice/Tenor
 +KEY=F
 +SLICENUMBER=II.53a
 +FIRSTWORDS=Da nahmen die Kriegsknechte

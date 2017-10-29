@@ -2,8 +2,8 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Tenor
-@INSTRUMENT=Oboe
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=wind/Oboe
 @INSTRUMENT=Viol
 @INSTRUMENT=Continuo
 +KEY=A

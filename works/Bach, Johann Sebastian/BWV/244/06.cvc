@@ -2,8 +2,8 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Alto
-@INSTRUMENT=Flute
+@INSTRUMENT=voice/Alto
+@INSTRUMENT=wind/Flute
 @INSTRUMENT=Continuo
 +KEY=Fsm
 +SLICENUMBER=I.6

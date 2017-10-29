@@ -3,8 +3,8 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
 +KEY=Fsm
 +SLICENUMBER=II.41a
 +FIRSTWORDS=Der Morgens aber hielten alle Hohepriester

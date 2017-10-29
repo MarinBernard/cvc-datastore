@@ -2,10 +2,10 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Bass
-@INSTRUMENT=Oboe da caccia
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=voice/Bass
+@INSTRUMENT=wind/Oboe da caccia
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Continuo
 +KEY=Bf
 +SLICENUMBER=II.65

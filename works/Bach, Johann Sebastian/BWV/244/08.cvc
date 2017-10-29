@@ -2,10 +2,10 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Soprano
-@INSTRUMENT=Flute
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=wind/Flute
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
+@INSTRUMENT=voice/Soprano
 @INSTRUMENT=Continuo
 +KEY=Bm
 +SLICENUMBER=I.8

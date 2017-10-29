@@ -3,7 +3,7 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
+@INSTRUMENT=voice/Tenor
 +KEY=C
 +SLICENUMBER=II.63a
 +FIRSTWORDS=Und siehe da, der Vorhang im Tempel zerriß

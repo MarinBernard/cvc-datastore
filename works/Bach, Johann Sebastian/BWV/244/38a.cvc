@@ -3,9 +3,9 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
-@INSTRUMENT=Soprano
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
+@INSTRUMENT=voice/Soprano
 +KEY=A
 +SLICENUMBER=II.38a
 +FIRSTWORDS=Petrus aber saß draußen im Palast

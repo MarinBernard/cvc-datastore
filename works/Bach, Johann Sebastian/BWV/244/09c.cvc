@@ -2,11 +2,11 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
 +KEY=G
 +SLICENUMBER=I.9c
 +FIRSTWORDS=Er sprach: Gehet hin in die Stadt

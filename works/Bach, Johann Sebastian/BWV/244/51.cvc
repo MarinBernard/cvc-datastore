@@ -2,9 +2,9 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Alto
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=voice/Alto
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Continuo
 +KEY=F
 +SLICENUMBER=II.51

@@ -3,9 +3,9 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Alto
-@INSTRUMENT=Bass
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Alto
+@INSTRUMENT=voice/Bass
 +KEY=Gm
 +SLICENUMBER=II.33
 +FIRSTWORDS=Und wiewohl viel falsche Zeugen herzutraten

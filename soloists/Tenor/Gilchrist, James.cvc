@@ -1,4 +1,4 @@
 # Cascaded Vorbis Comments file
 # Created: 2016-11-12
-@INCLUDE=../instrumentnames
-+SOLOISTNAME=James Gilchrist|Gilchrist, James|Gilchrist|{{TENOR}}
+@CONSTANTS=instrument_names
++SOLOISTNAME=James Gilchrist|Gilchrist, James|Gilchrist|{{INSTRUMENT_VOICE_TENOR}}

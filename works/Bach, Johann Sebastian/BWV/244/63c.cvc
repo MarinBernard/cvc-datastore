@@ -3,7 +3,7 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
+@INSTRUMENT=voice/Tenor
 +KEY=Ef
 +SLICENUMBER=II.63c
 +FIRSTWORDS=Und es waren viel Weiber da

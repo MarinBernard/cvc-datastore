@@ -3,7 +3,7 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
+@INSTRUMENT=voice/Tenor
 +KEY=Dm
 +SLICENUMBER=II.53c
 +FIRSTWORDS=Und speieten ihn an

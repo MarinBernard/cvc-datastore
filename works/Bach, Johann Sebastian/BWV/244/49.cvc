@@ -2,9 +2,9 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Soprano
-@INSTRUMENT=Flute
-@INSTRUMENT=Oboe da caccia
+@INSTRUMENT=voice/Soprano
+@INSTRUMENT=wind/Flute
+@INSTRUMENT=wind/Oboe da caccia
 +KEY=Am
 +SLICENUMBER=II.49
 +FIRSTWORDS=Aus Liebe will mein Heiland sterben

@@ -2,11 +2,11 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
 +KEY=B
 +SLICENUMBER=I.21
 +FIRSTWORDS=Und ging hin ein wenig

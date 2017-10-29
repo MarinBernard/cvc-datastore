@@ -2,11 +2,11 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Chorale
+@INSTRUMENT=wind/Flute
+@INSTRUMENT=wind/Oboe
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Choir
-@INSTRUMENT=Flute
-@INSTRUMENT=Oboe
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
 @INSTRUMENT=Continuo
 +KEY=Fm
 +SLICENUMBER=I.9e

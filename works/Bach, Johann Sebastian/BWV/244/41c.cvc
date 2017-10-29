@@ -3,8 +3,8 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
 +KEY=Am
 +SLICENUMBER=II.41c
 +FIRSTWORDS=Und er warf die Silberlinge in den Tempel

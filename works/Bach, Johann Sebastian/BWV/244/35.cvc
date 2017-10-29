@@ -2,7 +2,7 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Tenor
+@INSTRUMENT=voice/Tenor
 @INSTRUMENT=Viol
 @INSTRUMENT=Continuo
 +KEY=Am

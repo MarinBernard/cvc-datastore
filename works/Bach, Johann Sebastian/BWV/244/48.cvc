@@ -2,8 +2,8 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Soprano
-@INSTRUMENT=Oboe da caccia
+@INSTRUMENT=voice/Soprano
+@INSTRUMENT=wind/Oboe da caccia
 @INSTRUMENT=Continuo
 +KEY=Em
 +SLICENUMBER=II.48

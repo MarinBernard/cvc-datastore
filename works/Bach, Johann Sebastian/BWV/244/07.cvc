@@ -3,8 +3,8 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
 +KEY=D
 +SLICENUMBER=I.7
 +FIRSTWORDS=Da ging hin der Zwölfen einer

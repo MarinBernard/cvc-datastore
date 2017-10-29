@@ -2,9 +2,9 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Bass
-@INSTRUMENT=Violin
-@INSTRUMENT=Viola
+@INSTRUMENT=voice/Bass
+@INSTRUMENT=string/Violin
+@INSTRUMENT=string/Viola
 @INSTRUMENT=Continuo
 +KEY=Gm
 +SLICENUMBER=II.64

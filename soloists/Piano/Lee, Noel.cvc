@@ -1,4 +1,4 @@
 # Cascaded Vorbis Comments file
 # Created: 2017-10-27
-@INCLUDE=../instrumentnames
-+SOLOISTNAME=Noël Lee|Lee, Noël|Lee|{{PIANO}}
+@CONSTANTS=instrument_names
++SOLOISTNAME=Noël Lee|Lee, Noël|Lee|{{INSTRUMENT_VOICE_PIANO}}

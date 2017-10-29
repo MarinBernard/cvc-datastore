@@ -3,7 +3,7 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
+@INSTRUMENT=voice/Tenor
 +KEY=C
 +SLICENUMBER=II.58a
 +FIRSTWORDS=Und da sie an die Stätte kamen

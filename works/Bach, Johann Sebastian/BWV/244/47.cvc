@@ -3,8 +3,8 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
 @INSTRUMENT=Continuo
-@INSTRUMENT=Tenor
-@INSTRUMENT=Bass
+@INSTRUMENT=voice/Tenor
+@INSTRUMENT=voice/Bass
 +KEY=Bm
 +SLICENUMBER=II.47
 +FIRSTWORDS=Der Landpfleger sagte

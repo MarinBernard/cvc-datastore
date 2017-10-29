@@ -2,8 +2,8 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Bass
-@INSTRUMENT=Violin
+@INSTRUMENT=voice/Bass
+@INSTRUMENT=string/Violin
 @INSTRUMENT=Continuo
 +KEY=Gm
 +SLICENUMBER=I.23
