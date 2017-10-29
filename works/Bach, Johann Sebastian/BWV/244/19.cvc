@@ -3,7 +3,7 @@
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Chorale
 @SLICETYPE=Recitative
-@INSTRUMENT=Choir
+@INSTRUMENT=voice/Choir
 @INSTRUMENT=voice/Tenor
 @INSTRUMENT=wind/Flute
 @INSTRUMENT=wind/Oboe

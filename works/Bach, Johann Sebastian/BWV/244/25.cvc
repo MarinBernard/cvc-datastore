@@ -2,7 +2,7 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Chorale
-@INSTRUMENT=Choir
+@INSTRUMENT=voice/Choir
 @INSTRUMENT=wind/Flute
 @INSTRUMENT=wind/Oboe da caccia
 @INSTRUMENT=string/Violin

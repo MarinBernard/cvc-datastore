@@ -6,7 +6,7 @@
 @INSTRUMENT=wind/Oboe
 @INSTRUMENT=string/Violin
 @INSTRUMENT=string/Viola
-@INSTRUMENT=Choir
+@INSTRUMENT=voice/Choir
 @INSTRUMENT=Continuo
 +KEY=Fm
 +SLICENUMBER=I.9e

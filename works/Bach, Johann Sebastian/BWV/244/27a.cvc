@@ -2,7 +2,7 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Aria
-@INSTRUMENT=Choir
+@INSTRUMENT=voice/Choir
 @INSTRUMENT=voice/Soprano
 @INSTRUMENT=voice/Alto
 @INSTRUMENT=wind/Flute

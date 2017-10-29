@@ -2,7 +2,7 @@
 # Created: 2016-11-12
 @WORK=Bach, Johann Sebastian/BWV/244
 @SLICETYPE=Recitative
-@INSTRUMENT=Choir
+@INSTRUMENT=voice/Choir
 @INSTRUMENT=voice/Tenor
 @INSTRUMENT=voice/Soprano
 @INSTRUMENT=voice/Alto
