@@ -1,0 +1,10 @@
+# Cascaded Vorbis Comments file
+# Created: 2017-10-29
+
+# Constants
+!INSTRUMENT_VOICE:en=Voice
+!INSTRUMENT_VOICE:fr=Voix
+
+# Aliases
++INSTRUMENT:en={{INSTRUMENT_VOICE}}
++INSTRUMENT:fr={{INSTRUMENT_VOICE}}
