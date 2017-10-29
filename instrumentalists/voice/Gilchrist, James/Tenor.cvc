@@ -1,0 +1,5 @@
+# Cascaded Vorbis Comments file
+# Created: 2016-11-12
+@INCLUDE=../Gilchrist, James
+@INSTRUMENT=voice/Tenor
++INSTRUMENTALIST={{INSTRUMENTALIST_VOICE_GILCHRIST-JAMES}}|{{INSTRUMENT_VOICE_TENOR}}

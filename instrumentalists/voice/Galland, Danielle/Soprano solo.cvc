@@ -1,0 +1,5 @@
+# Cascaded Vorbis Comments file
+# Created: 2017-10-27
+@INCLUDE=../Galland, Danielle
+@INSTRUMENT=voice/Soprano
++SOLOIST={{INSTRUMENTALIST_VOICE_GALLAND-DANIELLE}}|{{INSTRUMENT_VOICE_SOPRANO}}

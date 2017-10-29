@@ -1,0 +1,5 @@
+# Cascaded Vorbis Comments file
+# Created: 2016-11-12
+@INCLUDE=../Fink, Marcos
+@INSTRUMENT=voice/Bass
++SOLOIST={{INSTRUMENTALIST_VOICE_FINK-MARCOS}}|{{INSTRUMENT_VOICE_BASS}}
